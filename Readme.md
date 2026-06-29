@@ -19,8 +19,7 @@ You're graded against other candidates that week, not a fixed bar.
 <a id="top"></a>
 ## Patterns
 
-[1. Hash Map / Hash Set](#1-hash-map--hash-set) XXX
-
+[1. Hash Map / Hash Set](#1-hash-map--hash-set)
 [2. Sliding Window](#2-sliding-window)  
 [3. Two Pointers](#3-two-pointers)  
 [4. Binary Search](#4-binary-search)  
@@ -66,7 +65,7 @@ You're graded against other candidates that week, not a fixed bar.
 
 ## 1. Hash Map / Hash Set
 
-1. [Two Sum](https://leetcode.com/problems/two-sum/) (Easy)
+1. [Two Sum](https://leetcode.com/problems/two-sum/) (EasyXX)
 2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
 3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Easy)
 4. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) (Easy)
