@@ -19,7 +19,7 @@ You're graded against other candidates that week, not a fixed bar.
 <a id="top"></a>
 ## Patterns
 
-[1. Hash Map / Hash Set](#1-hash-map--hash-set)
+[1. Hash Map / Hash Set](#1-hash-map--hash-set)  
 [2. Sliding Window](#2-sliding-window)  
 [3. Two Pointers](#3-two-pointers)  
 [4. Binary Search](#4-binary-search)  
