@@ -66,10 +66,10 @@ You're graded against other candidates that week, not a fixed bar.
 ## 1. Hash Map / Hash Set
 
 1. [Two Sum](https://leetcode.com/problems/two-sum/) (EasyXX)
-2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy)
-3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Easy)
-4. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) (Easy)
-5. [Word Pattern](https://leetcode.com/problems/word-pattern/) (Easy)
+2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (EasyX)
+3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (EasyX)
+4. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) (EasyX)
+5. [Word Pattern](https://leetcode.com/problems/word-pattern/) (EasyX)
 6. [Ransom Note](https://leetcode.com/problems/ransom-note/) (Easy)
 7. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (Easy)
 8. [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) (Easy)
