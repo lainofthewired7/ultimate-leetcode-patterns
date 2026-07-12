@@ -71,7 +71,7 @@ You're graded against other candidates that week, not a fixed bar.
 4. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) (EasyX)
 5. [Word Pattern](https://leetcode.com/problems/word-pattern/) (EasyX)
 6. [Ransom Note](https://leetcode.com/problems/ransom-note/) (EasyX)
-7. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (Easy)
+7. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) (EasyX)
 8. [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) (Easy)
 9. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium)
 10. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium)
