@@ -96,7 +96,7 @@ You're graded against other candidates that week, not a fixed bar.
 4. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (Medium)
 5. [Permutation in String](https://leetcode.com/problems/permutation-in-string/) (Medium)
 6. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium)
-7. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (Medium)
+7. [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (MediumX)
 8. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) (Medium)
 9. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) (Medium)
 10. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) (Medium)
